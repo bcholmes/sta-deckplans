@@ -1,0 +1,38 @@
+{
+  "id": "org-bcholmes-sta-deckplans",
+  "title": "STA Deckplans",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "sta",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "This module includes a number of ship deckplans for use with the Star Trek Adventures RPG from Modiphius",
+  "authors": [
+    {
+      "name": "BC Holmes",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "deckplans",
+      "label": "Deckplans",
+      "path": "packs/deckplans",
+      "type": "Scene",
+      "system": "sta",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
