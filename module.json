@@ -1,7 +1,7 @@
 {
   "id": "org-bcholmes-sta-deckplans",
   "title": "STA Deckplans",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -37,5 +37,5 @@
   ],
   "url": "https://github.com/bcholmes/sta-deckplans",
   "manifest": "https://raw.githubusercontent.com/bcholmes/sta-deckplans/main/module.json",
-  "download": "https://github.com/bcholmes/sta-deckplans/releases/download/v0.1.0/sta-deckplans-v0.1.0.zip"
+  "download": "https://github.com/bcholmes/sta-deckplans/releases/download/v0.1.0/sta-deckplans-v0.1.1.zip"
 }
