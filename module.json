@@ -25,7 +25,7 @@
   "packs": [
     {
       "name": "deckplans",
-      "label": "Deckplans",
+      "label": "TNG Deckplans",
       "path": "packs/deckplans/tng-deckplan-maps.db",
       "type": "Scene",
       "system": "sta",
